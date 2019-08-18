@@ -1,0 +1,3 @@
+[submodule "c4c-hugo/themes/stip"]
+	path = c4c-hugo/themes/stip
+	url = git@github.com:baberlevi/stip-hugo.git

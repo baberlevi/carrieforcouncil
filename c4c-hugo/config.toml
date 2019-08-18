@@ -1,0 +1,30 @@
+baseURL = "https://carrieforcouncil.org/"
+languageCode = "en-us"
+title = "Carrie Galvan for Boone City Council"
+theme = "stip"
+
+[Author]
+    name = "Carrie L. Galvan"
+    bio = "Ready to listen."
+
+[params]
+    [[params.links]]
+        icon = "facebook"
+        title = "Facebook"
+        url = "https://www.facebook.com/Carrie-L-Galvan-Candidate-for-City-Council-At-Large-104435744249604/"
+    [[params.links]]
+        icon = "twitter"
+        title = "Twitter"
+        url = "https://twitter.com/carriegalvan5"
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "Email"
+        url = "mailto:galvancarriel@gmail.com"
+
+    [params.colors]
+        background = "#000000"
+        circle = "#7851a9"
+        inner_circle = "#18838b"
+        foreground = "#82fff3"
+        hover = "#265b5f"
