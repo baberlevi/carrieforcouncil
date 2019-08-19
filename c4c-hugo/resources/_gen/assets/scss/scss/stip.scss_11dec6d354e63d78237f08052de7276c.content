@@ -23,22 +23,33 @@ a {
     color: #265b5f; }
 
 h1 {
-  font-size: 9rem;
+  font-size: 6rem;
   font-weight: 900;
-  -webkit-text-stroke: 5px white;
+  -webkit-text-stroke: 3px white;
   -webkit-text-fill-color: #18838b; }
   @media screen and (max-width: 980px) {
     h1 {
       font-size: 6rem; } }
 
 h2 {
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: 300; }
 
 p {
   font-family: "Lora", "Times", "Times New Roman", serif;
   font-weight: 300;
   line-height: 1.7; }
+
+.social {
+  vertical-align: top;
+  display: flex;
+  flex-direction: row; }
+
+.twitter-wrapper {
+  display: inline-block; }
+
+.fb-page {
+  display: inline-block; }
 
 img.portrait {
   border-radius: 50%;
